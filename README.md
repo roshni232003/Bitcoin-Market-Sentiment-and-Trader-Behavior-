@@ -24,11 +24,12 @@ ds_/ Roshni
 
 ├── csv_files/  
 
-                    │ └── *.csv 
+                    │. Historical Trader Data: └── https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing 
+                    |. Fear & Greed Index:     └── https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_mnrYv_nhSf/view?usp=sharing 
+                    |. InteractiveSheet:       └── https://docs.google.com/spreadsheets/d/1cObm95OqOCqSJBVz857rFlO2AOZc0f3Lz0NtcsuE4S0/edit?gid=0#gid=0
+                    |. Processed data :        └── https://docs.google.com/spreadsheets/d/1s1V3bE4OKDuO_BuZV-CXmTwiZZzR8uJyIWCRHxGHn8c/edit#gid=0
 
 ├── outputs/ │  
-
-                    └── *.png / *.jpg  
 
 ├── ds_report.pdf  
 
