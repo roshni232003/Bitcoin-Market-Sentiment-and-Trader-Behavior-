@@ -36,30 +36,6 @@ ds_/ Roshni
 
  
 
- ⚙️ Setup Instructions 
 
-Open the notebooks directly in Google Colab: 
 
-Notebook_1.ipynb 
 
-Notebook_2.ipynb 
-
-Upload the datasets (historical_data.csv, fear_greed_index.csv) into the csv_files/ folder. 
-
-Run all cells step by step to reproduce results. 
-
- 
-
-📝 Notes 
-
-All analysis was performed in Google Colab.  
-
-Ensure you have CSV files uploaded before running.  
-
-The outputs folder contains EDA plots and charts generated during analysis.  
-
-The ds_report.pdf summarizes key findings and insights. 
-
- 
-
-✍️ Author: Roshni Sharma 
