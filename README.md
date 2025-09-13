@@ -25,10 +25,9 @@ ds_/ Roshni
 ├── csv_files/  
 
                     1 │. Historical Trader Data: └── https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing 
-                    2 │. Historical Trader Data: └── https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing 
-                    3 |. Fear & Greed Index:     └── https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_mnrYv_nhSf/view?usp=sharing 
-                    4 |. InteractiveSheet:       └── https://docs.google.com/spreadsheets/d/1cObm95OqOCqSJBVz857rFlO2AOZc0f3Lz0NtcsuE4S0/edit?gid=0#gid=0
-                    5 |. Processed data :        └── https://docs.google.com/spreadsheets/d/1s1V3bE4OKDuO_BuZV-CXmTwiZZzR8uJyIWCRHxGHn8c/edit#gid=0
+                    2 |. Fear & Greed Index:     └── https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_mnrYv_nhSf/view?usp=sharing 
+                    3 |. InteractiveSheet:       └── https://docs.google.com/spreadsheets/d/1cObm95OqOCqSJBVz857rFlO2AOZc0f3Lz0NtcsuE4S0/edit?gid=0#gid=0
+                    4 |. Processed data :        └── https://docs.google.com/spreadsheets/d/1s1V3bE4OKDuO_BuZV-CXmTwiZZzR8uJyIWCRHxGHn8c/edit#gid=0
 ├── outputs/ │  
 
 ├── ds_report.pdf  
